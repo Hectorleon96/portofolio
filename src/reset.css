@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited,
+a:active {
+  color: inherit;
+}
+
+a:hover {
+  opacity: "0.8";
+}
